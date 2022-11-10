@@ -1,0 +1,228 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family:  sans-serif;
+}
+
+.container_conteudo {
+
+    line-height: 300px;
+    color: white;
+    text-align: center;
+}
+
+.container_segundo {
+    position: fixed;
+    margin: 0 auto;
+    width: 100%;
+    height: 40px;
+    background: #a96035;
+}
+
+
+
+.container_html_css {
+    margin: 80 auto;
+    width: 1200px;
+    height: 1000px;
+
+}
+
+
+.container_meio {
+    margin: 80 auto;
+    width: 1077px;
+    height: 1000px;
+}
+
+.container_titulo {
+    background: #a96035;
+    height: 63px;
+    font-size: 31px;
+    color: rgb(178 19 181);
+    line-height: 63px;
+    color: white;
+    text-align: inherit;
+
+}
+
+
+.texto_meio {
+    height: 312px;
+    font-size: 15px;
+    color: rgb(0 0 0);
+    line-height: 28px;
+
+
+}
+
+
+.texto_meio1 {
+    height: 312px;
+    font-size: 15px;
+    color: rgb(0 0 0);
+    line-height: 28px;
+
+
+}
+
+
+.texto_meio2 {
+
+    height: 549px;
+    font-size: 15px;
+    color: rgb(0 0 0);
+    line-height: 28px;
+    margin-top: 8px;
+
+}
+
+
+.imagem {
+    margin-block-start: 23px;
+}
+
+
+.logo {
+    width: 54px;
+    height: 51px;
+    margin-inline-end: 7px;
+    position: relative;
+    top: 11px;
+    left: 8px;
+}
+
+.menu {
+
+    text-align: center;
+    color: white;
+    width: 44%;
+    margin: 0 auto;
+    height: 40px;
+}
+
+.container_logo_site {
+    padding-top: 52px;
+    margin: 0px auto;
+    width: 1200px;
+    height: 87px;
+    border-bottom: 1px solid #8686865e;
+}
+
+
+.imagem_logotipo {
+    width: 128px;
+    height: 71px;
+}
+
+.logotipo {
+    text-align: center;
+
+}
+
+
+
+li a {
+    color: white;
+    line-height: 40px;
+}
+
+ul li {
+
+display: inline-block;
+}
+
+ul {
+    margin: 0;
+}
+
+
+a:hover {
+    background: #0a0a0a21;
+    
+}
+
+a {
+    color: rgb(255, 4, 4);
+}
+
+
+
+.fa-html5 {
+
+    margin-inline: 9px;
+    color: white;
+}
+
+.fa-css3-alt {
+    margin-inline: 9px;
+    color: white;
+}
+
+
+.icone_blog {
+    width: 55px;
+    height: 40px;
+    float: left;
+}
+
+
+form{
+    width: 500px;
+    margin: auto;
+}
+
+input:hover{
+    background-color: rgba(82, 82, 82, 0.253);
+}
+
+fieldset{
+    border-radius: 10px;
+}
+
+fieldset#sexo{
+    width: 200px;
+}
+
+fieldset#FeedBack{
+    width: 200px;
+}
+
+.titulo_fd h1{
+    text-align: center;
+    background-color: #a96035;
+    color: white;
+    
+}
+
+.titulo_feed h1{
+    text-align: center;
+    background-color: #a96035;
+    color: white;
+    
+}
+
+
+.tabela{
+
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, th, tr, td{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 400px;
+   
+}
+
+th{
+    background-color: rgba(0, 0, 0, 0.322);
+}
+
+tr, td{
+    background-color: rgba(0, 0, 0, 0.089);
+}
+
+
